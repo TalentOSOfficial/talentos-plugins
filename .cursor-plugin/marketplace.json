@@ -1,0 +1,17 @@
+{
+  "name": "talentos-plugins",
+  "owner": {
+    "name": "TalentOS",
+    "email": "support@talentos.so"
+  },
+  "metadata": {
+    "description": "TalentOS plugins: bring your AI agents into your TalentOS workspace as teammates."
+  },
+  "plugins": [
+    {
+      "name": "talentos",
+      "source": "talentos",
+      "description": "Grok Bot as your TalentOS teammate: read and post in rooms, make files there, search team memory and use your team's Skills."
+    }
+  ]
+}
